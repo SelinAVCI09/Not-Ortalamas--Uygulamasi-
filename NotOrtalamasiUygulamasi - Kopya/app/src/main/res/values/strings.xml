@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Not Ortalamasi Uygulamasi</string>
+    <string name="sinav1">1. sınav notunzu giriniz</string>
+    <string name="sinav2">2.sınav notunzu giriniz</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sonuctext">Sonuç</string>
+
+
+</resources>
